@@ -9,12 +9,24 @@ Je l'ai créé pour approfondir mes connaissances en Python,
 notamment sur le parcours de graphes représentés par une matrice. 
 A* m'intéressait particulièrement car j'avais déjà étudié Dijkstra sur d'autres de mes projets
 et je voulais comprendre comment l'heuristique fonctionnait et améliorait les performances.
+Ce projet m'a en tout prit environ 3 jours a développer.
 
 ## Fonctionnement
 - Le robot part de son point de départ
 - Il visite chaque point de récupération dans l'ordre
 - Il dépose les colis à la zone d'arrivée
 - Le chemin jaune représente la trajectoire calculée par A*
+
+##  Technologies et algo
+
+- **Python** — langage principal
+- **Pygame** — simulation visuelle
+- **A* (A-star)** — algorithme de pathfinding
+- **Heuristique de Manhattan** — optimisation de la recherche
+- **Matrice 2D** — représentation de l'environnement
+- **Programmation orientée objet** — architecture modulaire
+- **Autonomous navigation** — navigation autonome
+- **Path planning** — planification de trajectoire
 
 ## Personnaliser l'entrepôt
 Tout se modifie dans `data/entrepot.json` :
