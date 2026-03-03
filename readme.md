@@ -18,6 +18,8 @@ Ce projet m'a en tout prit environ 3 jours a développer.
 - Le chemin jaune représente la trajectoire calculée par A*
 
 ##  Technologies et algo
+<img width="1049" height="699" alt="image" src="https://github.com/user-attachments/assets/2d342f3a-050e-40b7-8a0a-5a59fe59cacd" />
+
 
 - **Python** — langage principal
 - **Pygame** — simulation visuelle
