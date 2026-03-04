@@ -11,6 +11,10 @@ A* m'intéressait particulièrement car j'avais déjà étudié Dijkstra sur d'a
 et je voulais comprendre comment l'heuristique fonctionnait et améliorait les performances.
 Ce projet m'a en tout prit environ 3 jours a développer.
 
+## Images
+<img width="1000" height="793" alt="image" src="https://github.com/user-attachments/assets/bcd68f7c-38fd-44b2-b90c-0bdd07cb128d" />
+Le carré rouge représente le robot, les bleus les points de récupérations, les gris les étagères, les petits jaunes le chemin en cours et le rouge le point d'arrivée.
+
 ## Fonctionnement
 - Le robot part de son point de départ
 - Il visite chaque point de récupération dans l'ordre
